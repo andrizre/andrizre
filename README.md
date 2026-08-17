@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- Header Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,20,35,50&height=220&section=header&text=Hi%20there,%20I'm%20Andri%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Bot%20Architect%20%7C%20Tech%20Enthusiast&descFontSize=18&descAlignY=62&descAlign=50" width="100%" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,20,35,50&height=220&section=header&text=Hi%20there,%20I'm%20Andrian%20Rizky%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Bot%20Architect%20%7C%20Tech%20Enthusiast&descFontSize=18&descAlignY=62&descAlign=50" width="100%" alt="Header Banner" />
 
   <!-- Animated Typing Text -->
   <a href="https://github.com/andrizre">
@@ -36,7 +36,7 @@
 ### 👨‍💻 About Me
 
 ```yaml
-name: Andri
+name: Andrian Rizky 
 role: Full Stack Developer & Bot Builder
 focus_areas:
   - Modern Web Applications (React, Next.js, Node.js)
