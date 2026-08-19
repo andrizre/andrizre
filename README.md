@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- Header Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,20,35,50&height=220&section=header&text=Hi%20there,%20I'm%20Andrian%20Rizky%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Bot%20Architect%20%7C%20Tech%20Enthusiast&descFontSize=18&descAlignY=62&descAlign=50" width="100%" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,20,35,50&height=220&section=header&text=Hi%20there,%20I'm%20Andri%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Bot%20Architect%20%7C%20Tech%20Enthusiast&descFontSize=18&descAlignY=62&descAlign=50" width="100%" alt="Header Banner" />
 
   <!-- Animated Typing Text -->
   <a href="https://github.com/andrizre">
@@ -15,14 +15,20 @@
     <a href="https://github.com/andrizre" target="_blank">
       <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
     </a>
+    <a href="https://instagram.com/andrizre" target="_blank">
+      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+    </a>
+    <a href="https://open.spotify.com/user/andrizre" target="_blank">
+      <img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify" />
+    </a>
+    <a href="https://linkedin.com/in/andrizre" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
     <a href="https://t.me/andrizre" target="_blank">
       <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
     </a>
     <a href="mailto:andrizre.dev@gmail.com" target="_blank">
       <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-    </a>
-    <a href="https://linkedin.com/in/andrizre" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
   </p>
 
@@ -36,7 +42,7 @@
 ### 👨‍💻 About Me
 
 ```yaml
-name: Andrian Rizky 
+name: Andri
 role: Full Stack Developer & Bot Builder
 focus_areas:
   - Modern Web Applications (React, Next.js, Node.js)
@@ -123,6 +129,42 @@ motto: "Transforming ideas into clean, functional, and aesthetic code."
 
 ---
 
+### 🎧 Spotify Activity & Music Vibe
+
+<div align="center">
+
+  <!-- Spotify Live / Recently Played Status Widget -->
+  <!-- Tips: Sambungkan akun di https://spotify-github-profile.kittinanx.com untuk mengaktifkan real-time widget -->
+  <a href="https://open.spotify.com/user/andrizre" target="_blank">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=andrizre&cover_image=true&theme=novatorem&show_offline=true&background_color=0d1117&interchange=false" alt="Spotify Recent / Now Playing" />
+  </a>
+
+  <br/><br/>
+
+  <!-- Curated Playlists & Vibe Badges -->
+  <p align="center">
+    <a href="https://open.spotify.com/user/andrizre" target="_blank">
+      <img src="https://img.shields.io/badge/Spotify_Profile-andrizre-1ED760?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify Profile" />
+    </a>
+    <a href="https://open.spotify.com/playlist/37i9dQZF1DXdLEN7aqioXM" target="_blank">
+      <img src="https://img.shields.io/badge/Coding_Mode-Deep_Focus-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Coding Mode Playlist" />
+    </a>
+    <a href="https://open.spotify.com/playlist/37i9dQZF1DX8Uebhn9wzrS" target="_blank">
+      <img src="https://img.shields.io/badge/Chill_Beats-Lo--Fi_Vibes-5865F2?style=for-the-badge&logo=spotify&logoColor=white" alt="Lo-Fi Vibes Playlist" />
+    </a>
+  </p>
+
+  <!-- Musical Vibes Badges -->
+  <p align="center">
+    <img src="https://img.shields.io/badge/Daily_Vibe-Lo--Fi_%26_Indie-0ea5e9?style=flat-square&logo=spotify" />
+    <img src="https://img.shields.io/badge/Coding_Flow-Synthwave_%2F_Cyberpunk-8b5cf6?style=flat-square&logo=spotify" />
+    <img src="https://img.shields.io/badge/Late_Night-Chillhop_%26_R%26B-ec4899?style=flat-square&logo=spotify" />
+  </p>
+
+</div>
+
+---
+
 ### 🐍 Contribution Activity Graph
 
 <div align="center">
@@ -140,16 +182,28 @@ motto: "Transforming ideas into clean, functional, and aesthetic code."
 <div align="center">
   <p>Got a project idea, want to collaborate, or just want to say hi? My inbox is always open!</p>
 
-  <a href="https://t.me/andrizre">
-    <img src="https://img.shields.io/badge/Chat_on_Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+  <a href="https://t.me/andrizre" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
   </a>
   &nbsp;
-  <a href="mailto:andrizre.dev@gmail.com">
-    <img src="https://img.shields.io/badge/Send_an_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  <a href="https://instagram.com/andrizre" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
   &nbsp;
-  <a href="https://github.com/andrizre?tab=repositories">
-    <img src="https://img.shields.io/badge/View_All_Repos-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repos" />
+  <a href="https://open.spotify.com/user/andrizre" target="_blank">
+    <img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify" />
+  </a>
+  &nbsp;
+  <a href="https://linkedin.com/in/andrizre" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  &nbsp;
+  <a href="mailto:andrizre.dev@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/andrizre?tab=repositories" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub_Repos-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repos" />
   </a>
 
   <br/><br/>
