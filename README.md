@@ -45,19 +45,19 @@
 name: Andri
 role: Full Stack Developer & Bot Builder
 focus_areas:
-  - Modern Web Applications (React, Next.js, Node.js)
-  - Automation & Chatbots (Telegram Bots, Python Scrapers)
+  - Modern Web Applications (React 19, Next.js, TypeScript)
+  - Serverless Telegram Bots (Google Apps Script, Python Scrapers)
   - Utility Tools & Developer Productivity
-  - Interactive Web Experiences & Mini Games
+  - 2D Games & Interactive Experiences (LÖVE2D)
 current_learning: Advanced Cloud Architecture & Real-time Systems
 motto: "Transforming ideas into clean, functional, and aesthetic code."
 ```
 
-- 🔭 **What I'm currently working on:** Scalable e-commerce solutions, bot automation & utility tools.
-- 🌱 **Technologies I specialize in:** JavaScript, TypeScript, Python, Node.js, React, and Supabase.
+- 🔭 **What I'm currently working on:** Water-utility management systems, serverless Telegram bot platforms, and AI-assisted web apps.
+- 🌱 **Technologies I specialize in:** TypeScript, React 19, Next.js, Node.js, Python, Google Apps Script, and Supabase.
 - 💡 **Passion:** Building tools that automate tedious workflows and crafting intuitive user interfaces.
-- 💬 **Ask me about:** Web development, Telegram bot integration, API design, and automation scripts.
-- ⚡ **Fun fact:** When I'm not coding, you can find me experimenting with mini-game mechanics and exploratory tech!
+- 💬 **Ask me about:** Web development, serverless Telegram bots, AI API integration, API design, and automation scripts.
+- ⚡ **Fun fact:** When I'm not coding, you can find me building 2D action games in LÖVE2D (Lua)!
 
 ---
 
@@ -113,19 +113,24 @@ motto: "Transforming ideas into clean, functional, and aesthetic code."
     </tr>
   </table>
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=andrizre&theme=radical&hide_border=true&background=0d1117&ring=38bdf8&fire=38bdf8&currStreakLabel=38bdf8" width="100%" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=andrizre&theme=radical&hide_border=true&background=0d1117&ring=38bdf8&fire=38bdf8&currStreakLabel=38bdf8" width="100%" alt="GitHub Streak" />
 </div>
 
 ---
 
 ### 🚀 Featured Repositories & Projects
 
-| Project | Description | Tech Stack | Repository |
-| :--- | :--- | :--- | :---: |
-| 🛒 **Fake Store E-Commerce** | Fully featured modern e-commerce storefront with cart & checkout flow. | `JavaScript` `React` `CSS` | [Explore ➔](https://github.com/andrizre/Fake-Store-E-commerce) |
-| 🧰 **Omni Tools** | Multi-purpose suite of web utilities & productivity enhancers. | `JavaScript` `Web Tools` | [Explore ➔](https://github.com/andrizre/omni-tools) |
-| ⚡ **Utility Tools** | Collection of lightweight scripts and daily developer helpers. | `JavaScript` `Automation` | [Explore ➔](https://github.com/andrizre/utility-tools) |
-| 🤖 **Telegram Media Bot** | Automated Telegram bot with multimedia scrapers & fast processing. | `Python` `Telegram API` | [Explore ➔](https://github.com/andrizre/Telegram-Tiktok) |
+| Project | Description | Tech Stack | Live | Repository |
+| :--- | :--- | :--- | :---: | :---: |
+| 💧 **Water Billing** | Village water-utility management: meter recording, billing & payments with 4 pluggable backends. | `React 19` `TypeScript` `Vite` | [Demo ➔](https://water-billing-two.vercel.app) | [Explore ➔](https://github.com/andrizre/water-billing) |
+| 🤖 **Telegram Finance Bot** | Serverless expense tracker & finance bot (v6.0) running on Google Apps Script + Sheets. | `Google Apps Script` `Telegram API` | — | [Explore ➔](https://github.com/andrizre/telegram-finance-bot) |
+| 🤖 **Telegram AI Chat Bot** | Enterprise AI assistant platform (v2.5) with contextual, multi-user conversations. | `Google Apps Script` `Telegram API` | — | [Explore ➔](https://github.com/andrizre/telegram-ai-chat-bot) |
+| ⚡ **clipflow** | Privacy-first, ultra-fast media downloader & preview engine for Instagram and TikTok. | `JavaScript` `Web APIs` | [Demo ➔](https://clipflow-amber.vercel.app) | [Explore ➔](https://github.com/andrizre/clipflow) |
+| 📺 **YouTube Downloader** | Clean, fast YouTube downloader built on Next.js App Router. | `Next.js` `TypeScript` | [Demo ➔](https://youtube-downloader-andrizre.vercel.app) | [Explore ➔](https://github.com/andrizre/youtube-downloader) |
+| 🪄 **PromptStudio** | Modular AI image prompt builder for Midjourney, ComfyUI, FLUX.1 & DALL·E. | `TypeScript` `React` | — | [Explore ➔](https://github.com/andrizre/ai-prompt-builder) |
+| 🎮 **VOID SURVIVOR** | Survivor-style 2D action game with waves, upgrades & juicy game feel. | `Lua` `LÖVE2D` | — | [Explore ➔](https://github.com/andrizre/void-survivor) |
+| 🛒 **fakestore.sim** | JD.com-inspired PWA e-commerce storefront with cart & checkout flow. | `React` `JavaScript` `PWA` | [Demo ➔](https://fake-store-e-commerce-smoky.vercel.app) | [Explore ➔](https://github.com/andrizre/Fake-Store-E-commerce) |
+| 🛠️ **OMNITOOLS PRO** | All-in-one suite: social media downloader, precision image compressor & utilities. | `JavaScript` `Web Tools` | — | [Explore ➔](https://github.com/andrizre/omni-tools) |
 
 ---
 
